@@ -5,4 +5,10 @@ my favorite food: pizza
 
 - `git config pull.rebase false`: merge the conflict files
 - (use `git add <file>...` to mark resolution)
-- (use `git -commit -m"..."` to conclude the merge
+- (use `git -commit -m"..."` to conclude the merge)
+
+- `code .gitignore`
+
+- `mkdir <name>`: create a folder. This (an empty folder without created files) will be detected by terminal
+
+- 

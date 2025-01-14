@@ -1,4 +1,6 @@
-# 2025-1-4-git
+# 2025-1-14-git
 my favorite food: pizza
 
-:O I'm using :pizza: in "git commit -m".."" to use an emoji 🍕s
+ :O I'm using :pizza: (two : around the word 'pizza') in "git commit -m".."" to use an emoji 🍕
+
+- `git config pull.rebase false`: merge the conflict files
